@@ -89,7 +89,11 @@ La biblioteca incluye manejo básico de errores que imprime mensajes de error en
 
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) [2024] [thedharex]
+=======
+Copyright (c) [año] [nombre completo o nombre de la organización]
+>>>>>>> 37b42b77db6709df2d6c271be3cb710a7d5d825e
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -119,4 +123,8 @@ Para más información o soporte, por favor contacta con el mantenedor del proye
 
 ## Advertencia
 
+<<<<<<< HEAD
 Esta biblioteca depende de servicios de terceros. Asegúrate de revisar los términos de servicio de Pollinations.ai antes de su uso en producción.
+=======
+Esta biblioteca depende de servicios de terceros. Asegúrate de revisar los términos de servicio de Pollinations.ai antes de su uso en producción.
+>>>>>>> 37b42b77db6709df2d6c271be3cb710a7d5d825e
