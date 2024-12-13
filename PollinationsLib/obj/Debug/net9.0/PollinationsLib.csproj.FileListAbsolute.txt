@@ -1,0 +1,12 @@
+C:\Users\yoeri\Documents\Visual Studio 2022\Proyects\PollinationsLib\PollinationsLib\bin\Debug\net9.0\PollinationsLib.deps.json
+C:\Users\yoeri\Documents\Visual Studio 2022\Proyects\PollinationsLib\PollinationsLib\bin\Debug\net9.0\PollinationsLib.dll
+C:\Users\yoeri\Documents\Visual Studio 2022\Proyects\PollinationsLib\PollinationsLib\bin\Debug\net9.0\PollinationsLib.pdb
+C:\Users\yoeri\Documents\Visual Studio 2022\Proyects\PollinationsLib\PollinationsLib\obj\Debug\net9.0\PollinationsLib.csproj.AssemblyReference.cache
+C:\Users\yoeri\Documents\Visual Studio 2022\Proyects\PollinationsLib\PollinationsLib\obj\Debug\net9.0\PollinationsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoeri\Documents\Visual Studio 2022\Proyects\PollinationsLib\PollinationsLib\obj\Debug\net9.0\PollinationsLib.AssemblyInfoInputs.cache
+C:\Users\yoeri\Documents\Visual Studio 2022\Proyects\PollinationsLib\PollinationsLib\obj\Debug\net9.0\PollinationsLib.AssemblyInfo.cs
+C:\Users\yoeri\Documents\Visual Studio 2022\Proyects\PollinationsLib\PollinationsLib\obj\Debug\net9.0\PollinationsLib.csproj.CoreCompileInputs.cache
+C:\Users\yoeri\Documents\Visual Studio 2022\Proyects\PollinationsLib\PollinationsLib\obj\Debug\net9.0\PollinationsLib.dll
+C:\Users\yoeri\Documents\Visual Studio 2022\Proyects\PollinationsLib\PollinationsLib\obj\Debug\net9.0\refint\PollinationsLib.dll
+C:\Users\yoeri\Documents\Visual Studio 2022\Proyects\PollinationsLib\PollinationsLib\obj\Debug\net9.0\PollinationsLib.pdb
+C:\Users\yoeri\Documents\Visual Studio 2022\Proyects\PollinationsLib\PollinationsLib\obj\Debug\net9.0\ref\PollinationsLib.dll
