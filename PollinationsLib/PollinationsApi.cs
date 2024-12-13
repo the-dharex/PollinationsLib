@@ -37,7 +37,7 @@ namespace PollinationsLib
         private static readonly HttpClient HttpClient = new();
 
 #if NET6_0_OR_GREATER
-        public static async Task<Image?> GenerateAndFetchImageAsync(ImagePrompt prompt, ImageModel model)
+        public static async Task<Image?> GenerateImageAsync(ImagePrompt prompt, ImageModel model)
         {
             try
             {
